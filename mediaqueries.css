@@ -1,0 +1,10 @@
+@media  screen and (max-width: 600px) {
+    .form-create{
+        width: 100%;
+    }
+    .create-header{
+        font-size: 5rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
